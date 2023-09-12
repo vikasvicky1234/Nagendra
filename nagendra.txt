@@ -1,0 +1,37 @@
+Description
+
+As a user
+
+i want to search item
+
+so that i can search item successfully
+
+Scope
+
+user able to search item on website
+
+Pre-condition
+
+user should have mobile phone or laptop to search the food
+
+Acceptance criteria
+
+scanario 1:
+
+User should have mobile phone or laptop
+
+they know about searching item option in the website
+
+they also able to fix the prize to item
+
+then user successfully search the item
+
+scanario 2:
+
+User should not have mobile phone or laptop
+
+they don't now about searching item option in the website
+
+they dont able to fix the prize to item
+
+then user cannot search the item successfully
